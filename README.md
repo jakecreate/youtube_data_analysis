@@ -28,8 +28,8 @@ This project analyzes the **Outdoor Boys YouTube channel (Luke Nichols)** to unc
        num_likes, length, quality, tags, num_tags  
 - **Processing Steps:**
   - Dropped unnecessary attributes
-  - Extracted and cleaned timestamps  
-  - Converted durations into numerical format  
+  - Extracted new columns  
+  - Corrected column data types 
   - Reordered columns
 
 ## **Visualizations**  
