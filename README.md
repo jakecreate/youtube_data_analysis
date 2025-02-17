@@ -10,7 +10,7 @@ This project analyzes the **Outdoor Boys YouTube channel (Luke Nichols)** to unc
 - Video durations have gradually increased throughout the years.
 - Each year, almost all of his videos were uploaded on Saturdays.
 - In 2024
-    - There was a notable drop in average video
+    - There was a notable drop in average video duration.
     - Furthermore, Luke started to have a significantly wider variation in the duration of his uploads.
     - Content strategy changed with "Youtube Shorts" (videos 60 seconds or below) being uploaded throughout the week, also explaining the notable drop in average duration + wider variation of duration that year.
 - About one in every 52 viewers who clicked on his videos hit the like button.
@@ -30,7 +30,7 @@ This project analyzes the **Outdoor Boys YouTube channel (Luke Nichols)** to unc
   - Dropped unnecessary attributes
   - Extracted and cleaned timestamps  
   - Converted durations into numerical format  
-  - Categorized videos based on upload day and length
+  - Reordered columns
 
 ## **Visualizations**  
 Here are some key visual insights from the dataset:  
