@@ -14,7 +14,7 @@ This project analyzes the **Outdoor Boys YouTube channel (Luke Nichols)** to unc
     - Furthermore, Luke started to have a significantly wider variation in the duration of his uploads.
     - Content strategy changed with "Youtube Shorts" (videos 60 seconds or below) being uploaded throughout the week, also explaining the notable drop in average duration + wider variation of duration that year.
 - About one in every 52 viewers who clicked on his videos hit the like button.
-- Each year contains videos high-performing videos (outliers based on likes each year), likely driving his regular performing video to grow exponentially in likes over time.
+- Each year contains high-performing videos (outliers based on likes each year), likely driving his regular performing video to grow exponentially in likes over time.
 
 ## **Tools & Libraries**  
 - **Python**  
