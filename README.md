@@ -5,7 +5,7 @@
 ## **📌 Project Overview**  
 This project analyzes the **Outdoor Boys YouTube channel (Luke Nichols)** to uncover trends in upload frequency, video duration, and engagement metrics. Data was collected and processed using the **YouTube API** to explore patterns in video performance and audience interaction.  
 
-**Key Findings**
+## **Key Findings**
 - Luke's upload frequency peaked in 2019, with a subsequent rise in 2024.
 - Video durations have gradually increased throughout the years.
 - Each year, almost all of his videos were uploaded on Saturdays.
@@ -16,7 +16,7 @@ This project analyzes the **Outdoor Boys YouTube channel (Luke Nichols)** to unc
 - About one in every 52 viewers who clicked on his videos hit the like button.
 - Each year contains videos high-performing videos (outliers based on likes each year), likely driving his regular performing video to grow exponentially in likes over time.
 
-## **🛠️ Tools & Libraries**  
+## **Tools & Libraries**  
 - **Python**  
 - `pandas`, `numpy` for data handling  
 - `matplotlib` for visualizations  
