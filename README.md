@@ -46,7 +46,8 @@ Here are some key visual insights from the dataset:
 ![Outlier Highlighted](graphs/anomalies.png)  
 
 ## **Future Steps**  
-- **Deeper Engagement Analysis** - Sentiment analysis of comments  
-- **YouTube Shorts vs. Long-Form Videos** - Which format drives more growth?  
+- **Apply Hypothesis Tests**
+    1. The introduction of YouTube Shorts in 2020 significantly increased the average engagement. (two-sample t-test)
+    2. Videos uploaded on weekends receive significantly more engagement than weekday uploads. (ANOVA) 
 - **More Time-Based Trends** - Analyzing engagement patterns across months/seasons  
 - **Predictive Modeling** - Forecasting video performance (probably with more videos across a variety of different channels)
